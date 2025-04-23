@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Rubik-Regular;
+  src: url("./assets/font/Rubik-Regular.ttf");
+}
+@font-face {
+  font-family: Rubik-Bold;
+  src: url("./assets/font/Rubik-Bold.ttf");
+}
+@font-face {
+  font-family: Rubik-Medium;
+  src: url("./assets/font/Rubik-Medium.ttf");
+}
+
+.headers{
+  text-align: center;
+  font-size: xx-large;
+  font-family: Rubik-Bold;
+  text-transform: uppercase;
+}
