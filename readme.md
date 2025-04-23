@@ -1,3 +1,10 @@
+# interface program
+<img style="width:600px; text-align:center;" src="./Картинка интерфейса.bmp"/>
+
+# interface admin panel
+<img style="width:900px; text-align:center" src="./Интерфейс админ панели.bmp"/>
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
